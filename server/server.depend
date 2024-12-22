@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1734644994 source:c:\users\oytun\desktop\oylama_uygulamasý\server\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<windows.h>
+	<process.h>
+
